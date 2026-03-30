@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Vansh 👋  <br><br>I’m a B.Tech student specializing in Artificial Intelligence and Machine Learning, with a strong interest in AI/ML, data analytics and building real-world, data-driven solutions. I enjoy working with data to uncover insights and develop intelligent systems.  <br><br>I have hands-on experience with Python, SQL, and data visualization tools, along with a solid foundation in core computer science subjects like Data Structures, DBMS, OOPs, and Probability & Statistics.  <br><br>My projects include an ML-based Career Intelligence System and a full-stack data-driven application, where I focused on scalability and real-world impact.  <br><br>I’m currently exploring NLP, deep learning, and advanced ML systems, and I’m always looking to learn, build, and solve challenging problems 🚀
+Hi, I’m Vansh 👋  <br><br>I’m a B.Tech student specializing in Artificial Intelligence and Machine Learning, with a strong interest in data analytics and building real-world, data-driven solutions. I enjoy working with data to uncover insights and develop intelligent systems.  <br><br>I have hands-on experience with Python, SQL, and data visualization tools, along with a solid foundation in core computer science subjects like Data Structures, DBMS, OOPs, and Probability & Statistics.  <br><br>My projects include an ML-based Career Intelligence System and a full-stack data-driven application, where I focused on scalability and real-world impact.  <br><br>I’m currently exploring NLP, deep learning, and advanced ML systems, and I’m always looking to learn, build, and solve challenging problems 🚀
 
 
 ## 🌐 Socials:
@@ -11,6 +11,12 @@ Hi, I’m Vansh 👋  <br><br>I’m a B.Tech student specializing in Artificial 
 ![](https://github-readme-stats.vercel.app/api?username=Vansh3829&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Vansh3829&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh3829&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Vansh3829&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Vansh3829&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Vansh3829&icon=0&color=0)](https://visitcount.itsvg.in)
